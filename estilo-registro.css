@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: sandybrown;
+}
+
+.clearfix{
+    clear:both;
+}
+
+#formaregistro{
+    background-color: lightskyblue;
+    border: 2px black solid;
+    border-radius: 10%;
+    width: 20%;
+}
+
+#botonera{
+    border: 1px solid darkslategrey;
+    background-color: white;
+}
+
+a{
+    color:blue;
+    font-weight: bold;
+}

@@ -1,0 +1,26 @@
+body{
+    background-color: lightyellow;
+    text-align: center;
+}
+h1{
+    font-style: italic;
+    font-size: 32px;
+}
+
+#formalogin{
+    border: 2px solid black;
+    border-radius: 20%;
+    background-color: skyblue;
+    width: 20%;
+}
+
+#labelform{
+    font-style: italic;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+a{
+    color:blue;
+    font-weight: bold;
+}
