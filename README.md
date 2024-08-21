@@ -1,4 +1,4 @@
-# TP-Aplicacion-Web
+# TP-Aplicacion-Web Venta de Articulos
 
 Este proyecto se enfoca en desarrollar una aplicación web para la publicación y venta de artículos, permitiendo la interacción entre usuarios interesados mediante un sistema de consultas.
 
